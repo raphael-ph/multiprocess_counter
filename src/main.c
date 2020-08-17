@@ -1,5 +1,5 @@
 /* Raphael Carvalho - RA: 205125
-	Laboratório 04 - contador multiprocessos
+ * Laboratório 04 - contador de primos com multiprocessos
  */
 
 #include <stdio.h>
@@ -82,13 +82,3 @@ int main()
 
  	return 0;
 }
-
-
-
-
-
-
-
-
-
-
